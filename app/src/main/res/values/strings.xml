@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NetworkChecker</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="wake_up_your_internet_connection_to_access_this_part_of_the_application">Wake up your Internet Connection to access this part of the application</string>
+    <string name="image">Image</string>
+    <string name="connected">Connected</string>
+    <string name="about_connected">yes, you are online, the internet connection is available</string>
+</resources>
